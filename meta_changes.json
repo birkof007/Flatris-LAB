@@ -1,5 +1,6 @@
 {
 	"car" : "Opel",
 	"model" : "Astra",
-	"year" : "2005"
+	"year" : "2005",
+	"color" : "red"
 }
