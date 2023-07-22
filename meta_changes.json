@@ -5,5 +5,6 @@
 	"color" : "red",
 	"price" : "5000",
 	"currency" : "EUR",
-	"engine" : "1.6"
+	"engine" : "1.6",
+	"transmission" : "manual"
 }
