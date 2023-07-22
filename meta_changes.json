@@ -3,5 +3,6 @@
 	"model" : "Astra",
 	"year" : "2005",
 	"color" : "red",
-	"price" : "5000"
+	"price" : "5000",
+	"currency" : "EUR"
 }
